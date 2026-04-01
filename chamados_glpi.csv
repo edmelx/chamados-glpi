@@ -1,0 +1,401 @@
+ID,Titulo,Categoria,Tipo,Status,Prioridade,Grupo_responsavel,Tecnico,Solicitante,Data_abertura,Data_resolucao,Dentro_SLA
+1,Explicabo facere nisi ex fugiat similique.,Requisicao,Hardware,Pendente,Muito baixa,N3 - Desenvolvimento,Pedro Silveira,Letícia Aparecida,2025-09-09 07:58,2025-09-12 18:11,1
+2,Voluptate et voluptatem consequuntur.,Requisicao,Rede,Em processamento,Baixa,N3 - Desenvolvimento,Clara Souza,Sra. Amanda Siqueira,2025-09-06 08:16,2025-09-12 19:33,0
+3,Impedit quis laboriosam aspernatur unde explicabo.,Requisicao,Impressora,Em processamento,Alta,N2 - Infraestrutura,Rafael Moreira,Calebe Costa,2025-08-15 16:19,2025-08-16 04:28,0
+4,Nesciunt explicabo facere sequi nobis quod.,Incidente,Software,Fechado,Media,N1 - Suporte,Larissa Montenegro,Arthur Ramos,2025-12-01 11:17,2025-12-03 01:18,0
+5,Consequuntur et ut odit eligendi.,Problema,Rede,Novo,Muito alta,N1 - Suporte,Pedro Henrique Cassiano,Emilly Dias,2025-05-03 08:12,2025-05-03 10:41,0
+6,Eius alias alias.,Incidente,Rede,Em processamento,Muito alta,N2 - Infraestrutura,Sophie Marques,Breno Sousa,2025-04-08 19:08,2025-04-08 22:28,0
+7,Illo officiis neque possimus soluta vel natus.,Incidente,Impressora,Em processamento,Baixa,N2 - Infraestrutura,Henry Gabriel Moreira,Isaque Cavalcante,2025-09-26 22:41,2025-09-30 09:23,0
+8,Amet modi reiciendis harum sed et possimus.,Incidente,Software,Fechado,Baixa,N3 - Desenvolvimento,Isaac Pinto,Kaique Novais,2026-02-17 01:44,2026-02-21 15:08,0
+9,Earum animi sed odio cum necessitatibus.,Problema,Acesso,Resolvido,Baixa,N1 - Suporte,Isadora da Rosa,Gabriela Pacheco,2026-01-01 05:15,2026-01-06 05:51,0
+10,Facilis dolorem vitae expedita quam.,Incidente,Rede,Em processamento,Alta,N3 - Desenvolvimento,Srta. Maria Eduarda Brito,Maya Machado,2025-06-26 05:52,2025-06-26 19:06,0
+11,Perferendis eum aspernatur iste vel ut praesentium.,Incidente,Rede,Resolvido,Muito alta,N2 - Infraestrutura,Lívia Ribeiro,Gustavo Pereira,2025-04-05 08:36,2025-04-05 10:35,1
+12,Maxime culpa quasi magni nihil ipsa.,Mudanca,Hardware,Em processamento,Alta,N1 - Suporte,Isabela Souza,Marcela da Cruz,2025-05-18 14:28,2025-05-18 23:18,0
+13,Dolorem nulla magnam.,Requisicao,Hardware,Novo,Baixa,N1 - Suporte,Davi Lucas Melo,Dom Vasconcelos,2025-07-27 19:49,2025-07-31 21:51,0
+14,Non est enim velit distinctio.,Incidente,Impressora,Resolvido,Muito alta,N3 - Desenvolvimento,Sr. Léo Aragão,Sr. Samuel Garcia,2026-01-09 16:31,2026-01-09 19:36,0
+15,Non molestias cum quo dolores.,Mudanca,Acesso,Fechado,Media,N1 - Suporte,Vicente Ramos,Maria Sophia Costa,2025-11-21 08:43,2025-11-22 11:18,0
+16,Aliquid fugit voluptatum iusto tempore illo.,Problema,Hardware,Fechado,Muito baixa,N3 - Desenvolvimento,Sr. Vicente Nascimento,Isabelly Sá,2026-01-29 05:03,2026-02-09 12:52,0
+17,Fugit consequuntur minus laborum doloribus accusamus cumque temporibus.,Requisicao,Impressora,Novo,Baixa,N1 - Suporte,Luiz Gustavo da Mata,Ravy Barbosa,2025-09-07 15:19,2025-09-09 23:40,1
+18,Ipsam nemo repudiandae iure voluptates inventore.,Incidente,Acesso,Em processamento,Baixa,N1 - Suporte,Dom Silva,Luiza Novaes,2026-01-17 13:49,2026-01-20 13:05,1
+19,Quas incidunt nulla aperiam doloremque voluptas.,Requisicao,Acesso,Resolvido,Muito alta,N2 - Infraestrutura,Olívia Leão,Ísis Melo,2026-02-09 15:19,2026-02-09 17:04,1
+20,Distinctio laboriosam atque excepturi voluptatum.,Incidente,Software,Em processamento,Baixa,N1 - Suporte,Lorenzo Duarte,Luísa Casa Grande,2025-09-22 18:14,2025-09-30 00:37,0
+21,Hic sunt numquam laborum officia vel.,Problema,Software,Novo,Muito baixa,N2 - Infraestrutura,Milena da Paz,Clarice da Mata,2025-05-10 23:52,2025-05-17 23:14,0
+22,Illum voluptatibus repellendus ullam quibusdam atque provident.,Incidente,Hardware,Resolvido,Alta,N1 - Suporte,Maria Sophia Azevedo,Dr. Mateus Mendes,2025-11-11 07:41,2025-11-12 03:22,0
+23,Enim quidem ex numquam aut reprehenderit totam facilis.,Requisicao,Software,Fechado,Baixa,N1 - Suporte,Breno Moraes,Pietro Nunes,2026-02-20 18:29,2026-02-24 22:37,0
+24,A at saepe.,Problema,Rede,Pendente,Baixa,N1 - Suporte,Maria Helena da Mota,Luiz Otávio Silveira,2025-11-20 00:12,2025-11-23 14:18,0
+25,Laboriosam maiores suscipit.,Problema,Acesso,Resolvido,Muito alta,N2 - Infraestrutura,Isabelly Aragão,Lívia da Rocha,2026-02-13 06:06,2026-02-13 08:46,0
+26,Consequuntur ipsam et facere laudantium.,Problema,Hardware,Pendente,Media,N3 - Desenvolvimento,Gustavo Henrique Lima,Sofia Moura,2026-02-20 10:00,2026-02-22 05:06,0
+27,Natus maxime alias repudiandae.,Problema,Rede,Novo,Muito baixa,N3 - Desenvolvimento,Dra. Emanuella Sousa,Sra. Maria Clara Monteiro,2025-12-20 14:35,2026-01-01 00:59,0
+28,Est vel corporis tempore.,Requisicao,Impressora,Fechado,Media,N1 - Suporte,Lavínia Silveira,Jade Nascimento,2025-09-08 05:50,2025-09-10 09:02,0
+29,Culpa quidem dolor dicta rem accusamus.,Problema,Rede,Em processamento,Baixa,N2 - Infraestrutura,Nicole Almeida,Thiago Novaes,2025-08-09 12:34,2025-08-12 18:35,0
+30,Iste reprehenderit fugiat libero quas.,Requisicao,Rede,Fechado,Muito alta,N1 - Suporte,Lucas Siqueira,Camila Carvalho,2025-04-24 10:00,2025-04-24 12:17,0
+31,Quisquam odio in accusamus eaque.,Mudanca,Software,Resolvido,Muito alta,N2 - Infraestrutura,Daniela Almeida,Ana Julia da Costa,2025-09-30 07:26,2025-09-30 09:14,1
+32,Ex rerum ut culpa veritatis.,Problema,Software,Novo,Muito baixa,N3 - Desenvolvimento,Eduardo Nunes,Antônio Melo,2025-04-23 14:08,2025-05-05 11:08,0
+33,Ipsam et commodi necessitatibus ex ea.,Incidente,Software,Em processamento,Media,N2 - Infraestrutura,Dr. Ravy Borges,Ayla Viana,2025-08-18 18:22,2025-08-20 06:29,0
+34,Nostrum doloribus quas necessitatibus.,Requisicao,Software,Pendente,Muito alta,N3 - Desenvolvimento,Gabriel Ribeiro,Manuella Macedo,2025-12-31 12:36,2025-12-31 15:55,0
+35,Consectetur commodi voluptatum ea corrupti aut eius.,Mudanca,Rede,Pendente,Alta,N3 - Desenvolvimento,Pedro Miguel Cavalcante,Brenda Pacheco,2025-09-12 10:51,2025-09-13 00:25,0
+36,Esse quam modi nesciunt corporis.,Incidente,Hardware,Em processamento,Baixa,N2 - Infraestrutura,Marcela Oliveira,Eloá Cirino,2025-08-16 06:01,2025-08-23 04:46,0
+37,Tempore vero a officiis voluptatibus.,Requisicao,Acesso,Fechado,Muito baixa,N3 - Desenvolvimento,Leonardo Ferreira,Isaque Almeida,2025-12-13 09:03,2025-12-22 19:15,0
+38,Voluptas velit reiciendis nostrum eaque atque.,Problema,Hardware,Fechado,Media,N2 - Infraestrutura,Cecilia Campos,Ravi da Mota,2026-03-06 09:07,2026-03-07 11:50,0
+39,Quia natus soluta beatae.,Requisicao,Software,Fechado,Alta,N3 - Desenvolvimento,Beatriz Mendes,Srta. Ana Pinto,2025-10-20 02:46,2025-10-20 20:52,0
+40,Odit a nobis.,Problema,Rede,Resolvido,Muito alta,N3 - Desenvolvimento,Manuela Freitas,Kamilly Silva,2026-03-25 14:04,2026-03-25 15:12,1
+41,Perferendis accusantium numquam odit dignissimos.,Requisicao,Impressora,Novo,Baixa,N3 - Desenvolvimento,José Vieira,Arthur Nascimento,2025-07-11 07:41,2025-07-14 09:36,0
+42,Iusto adipisci illum nam accusamus debitis quis iusto.,Requisicao,Software,Fechado,Muito alta,N1 - Suporte,Isis Carvalho,Lara Viana,2026-02-08 12:34,2026-02-08 16:31,0
+43,Sed maxime voluptates nobis modi quibusdam.,Mudanca,Software,Fechado,Muito baixa,N1 - Suporte,Rebeca Pires,Rhavi Pastor,2026-01-07 17:13,2026-01-10 09:16,1
+44,Doloribus expedita quos recusandae id pariatur quos.,Requisicao,Impressora,Fechado,Muito alta,N3 - Desenvolvimento,Maya Andrade,Sra. Isabella Azevedo,2025-07-13 01:30,2025-07-13 02:33,1
+45,Necessitatibus id esse repellat quas totam odit.,Problema,Impressora,Fechado,Alta,N2 - Infraestrutura,Jade Duarte,Maria Flor Ribeiro,2025-05-13 22:56,2025-05-14 03:04,1
+46,Voluptatum harum aperiam odit ipsam voluptate suscipit.,Problema,Impressora,Fechado,Media,N1 - Suporte,Vinícius Machado,Josué Brito,2025-09-09 10:02,2025-09-10 06:54,1
+47,Veniam et sed optio pariatur corrupti.,Requisicao,Rede,Novo,Baixa,N2 - Infraestrutura,Pedro Lucas da Mota,Alexia Castro,2026-03-18 17:40,2026-03-25 05:03,0
+48,Blanditiis odit quo non ducimus fugit.,Problema,Hardware,Novo,Muito baixa,N2 - Infraestrutura,Mariane Nogueira,Sr. João Gabriel Machado,2025-07-09 19:25,2025-07-22 03:26,0
+49,Esse maxime mollitia sint.,Requisicao,Acesso,Fechado,Muito baixa,N1 - Suporte,Heloisa Azevedo,Srta. Emanuella Vargas,2026-01-01 05:32,2026-01-05 13:48,1
+50,Error veniam nemo ab.,Requisicao,Acesso,Em processamento,Muito baixa,N2 - Infraestrutura,Emanuel Abreu,Liam Pacheco,2026-02-02 15:18,2026-02-10 02:11,0
+51,Recusandae quo ad omnis iste aliquid.,Problema,Software,Pendente,Alta,N1 - Suporte,Lucca Gonçalves,Ana Silveira,2026-02-19 19:15,2026-02-20 10:45,0
+52,Vitae pariatur praesentium.,Problema,Software,Em processamento,Baixa,N3 - Desenvolvimento,Cauê Teixeira,Ana Jesus,2025-11-01 07:38,2025-11-07 02:09,0
+53,Similique ad porro modi debitis labore iure.,Problema,Impressora,Fechado,Muito alta,N2 - Infraestrutura,José Fonseca,Rael Cassiano,2026-03-21 02:08,2026-03-21 06:02,0
+54,Nobis veniam autem.,Mudanca,Software,Novo,Media,N3 - Desenvolvimento,Isaque Sampaio,Helena Barbosa,2025-09-03 10:08,2025-09-04 19:40,0
+55,Ex eaque voluptatem sunt dolor velit rem.,Incidente,Impressora,Novo,Muito alta,N3 - Desenvolvimento,Allana Monteiro,Laura Leão,2025-12-15 23:30,2025-12-16 01:32,0
+56,Officia ipsa sed voluptate amet facilis accusantium.,Incidente,Hardware,Fechado,Media,N3 - Desenvolvimento,Gustavo Henrique Cardoso,Anthony Cunha,2025-11-14 06:59,2025-11-16 12:19,0
+57,Quidem iusto atque et debitis exercitationem.,Problema,Software,Resolvido,Muito baixa,N2 - Infraestrutura,Matteo Casa Grande,Rebeca Ribeiro,2026-01-20 00:47,2026-01-26 22:35,0
+58,Tenetur dignissimos quam itaque optio veritatis.,Problema,Hardware,Pendente,Alta,N1 - Suporte,Emanuella Cirino,Sophie da Cunha,2025-09-11 03:30,2025-09-11 07:52,1
+59,Enim molestias officiis id accusantium.,Incidente,Rede,Resolvido,Baixa,N1 - Suporte,Srta. Isis Melo,Sabrina Barros,2025-12-31 17:38,2026-01-05 19:26,0
+60,Sint rerum nisi esse at.,Incidente,Software,Em processamento,Muito alta,N2 - Infraestrutura,Luiz Fernando da Conceição,Luiz Fernando Pires,2025-07-31 22:56,2025-08-01 02:12,0
+61,Cumque fugit vitae.,Incidente,Hardware,Em processamento,Muito baixa,N1 - Suporte,João Felipe Rios,Luan Moraes,2026-01-04 06:58,2026-01-14 20:06,0
+62,Qui nesciunt voluptatum.,Problema,Software,Pendente,Muito alta,N2 - Infraestrutura,Matheus Dias,Liam Moraes,2025-08-07 20:14,2025-08-07 22:16,0
+63,Commodi excepturi quidem ratione natus voluptatibus quasi.,Mudanca,Impressora,Pendente,Alta,N3 - Desenvolvimento,Allana Melo,Dra. Giovanna Abreu,2025-12-28 06:05,2025-12-28 16:46,0
+64,Corrupti deleniti fugiat molestiae aperiam.,Problema,Impressora,Pendente,Baixa,N3 - Desenvolvimento,Ester Costela,Lorena Casa Grande,2026-03-14 17:15,2026-03-17 01:38,1
+65,Minima ut sed.,Incidente,Hardware,Fechado,Muito baixa,N1 - Suporte,Larissa Cirino,Pietra Montenegro,2025-05-29 21:20,2025-06-02 08:54,1
+66,Ea quo soluta nihil.,Mudanca,Software,Novo,Alta,N2 - Infraestrutura,Marcelo das Neves,Srta. Alice Dias,2026-02-18 11:22,2026-02-18 19:32,0
+67,Magni consectetur nemo.,Incidente,Rede,Resolvido,Muito baixa,N1 - Suporte,Antony Melo,Kevin Rezende,2026-01-28 16:02,2026-02-01 23:11,1
+68,Fuga sapiente repellat natus commodi.,Incidente,Hardware,Fechado,Baixa,N2 - Infraestrutura,Luana Castro,Noah Cunha,2025-12-30 23:22,2026-01-06 09:04,0
+69,Fugit optio veniam quisquam.,Mudanca,Acesso,Novo,Muito baixa,N3 - Desenvolvimento,Dr. Josué Borges,Paulo da Cruz,2025-07-25 22:22,2025-08-05 18:32,0
+70,Reiciendis repudiandae alias eum reiciendis repellendus repellendus.,Mudanca,Rede,Em processamento,Media,N3 - Desenvolvimento,Dr. Arthur Miguel da Cruz,Stella Nascimento,2025-10-09 13:18,2025-10-10 21:06,0
+71,Corporis nostrum harum illo.,Mudanca,Software,Novo,Muito baixa,N3 - Desenvolvimento,Benício Costela,Srta. Maya Moura,2025-04-05 08:39,2025-04-08 22:05,1
+72,Illo labore alias esse quas aspernatur atque.,Mudanca,Impressora,Resolvido,Alta,N3 - Desenvolvimento,José Pimenta,Ravy Araújo,2026-02-12 00:33,2026-02-12 14:22,0
+73,Incidunt illum facere ipsum.,Requisicao,Acesso,Resolvido,Media,N2 - Infraestrutura,Arthur Miguel da Conceição,Dra. Sophia Casa Grande,2026-01-26 16:58,2026-01-28 15:13,0
+74,Tempora distinctio molestiae laudantium nesciunt.,Mudanca,Rede,Pendente,Media,N3 - Desenvolvimento,Aylla Cirino,Eloá das Neves,2026-01-29 20:41,2026-01-31 19:48,0
+75,Assumenda maiores labore modi.,Incidente,Rede,Fechado,Baixa,N2 - Infraestrutura,Marcos Vinicius Sá,Srta. Isadora Pinto,2025-11-17 19:02,2025-11-22 22:52,0
+76,Amet quisquam cum rem tenetur iste similique.,Requisicao,Impressora,Fechado,Baixa,N1 - Suporte,João Gabriel da Mota,Pietra Ramos,2025-06-16 09:14,2025-06-19 14:05,0
+77,Corporis delectus sapiente culpa.,Problema,Impressora,Pendente,Muito baixa,N3 - Desenvolvimento,Lucca da Rocha,Ana Lívia Farias,2025-07-02 16:49,2025-07-07 02:37,1
+78,Laudantium commodi quae similique.,Problema,Impressora,Pendente,Media,N2 - Infraestrutura,Anthony Cassiano,Henry Gabriel Rios,2026-01-13 00:48,2026-01-13 16:25,1
+79,Corporis ipsa ex culpa rerum.,Mudanca,Impressora,Resolvido,Alta,N1 - Suporte,Rafaela Silva,Bruna Teixeira,2026-02-24 21:21,2026-02-25 14:49,0
+80,Quos similique cupiditate deserunt eius rerum.,Requisicao,Acesso,Pendente,Muito baixa,N3 - Desenvolvimento,Ágatha Barbosa,Liz Camargo,2025-09-19 10:24,2025-09-25 12:10,0
+81,Error laudantium voluptatibus quaerat placeat quas magnam.,Incidente,Hardware,Fechado,Alta,N1 - Suporte,Oliver Guerra,Ravi da Mota,2026-03-20 03:20,2026-03-20 17:47,0
+82,Veniam aliquam tempora nostrum ab eos exercitationem incidunt.,Mudanca,Acesso,Em processamento,Muito baixa,N1 - Suporte,Mariana Novaes,Ana Clara Moura,2026-01-30 18:05,2026-02-04 10:28,1
+83,Iste nihil inventore animi repudiandae.,Mudanca,Rede,Fechado,Alta,N1 - Suporte,Srta. Mariah Mendes,Sara Almeida,2026-02-22 01:17,2026-02-22 10:50,0
+84,Dolorem odit molestiae illo eaque.,Incidente,Impressora,Resolvido,Alta,N2 - Infraestrutura,Isis Sousa,Daniela Sousa,2026-03-28 04:10,2026-03-28 21:11,0
+85,Dignissimos fugiat reiciendis unde.,Problema,Impressora,Pendente,Baixa,N2 - Infraestrutura,Melissa Alves,Dom Pinto,2026-01-22 09:35,2026-01-28 11:40,0
+86,Reprehenderit debitis est hic beatae enim hic totam.,Problema,Impressora,Fechado,Muito baixa,N1 - Suporte,Dr. André Gonçalves,Hadassa Pastor,2025-07-13 19:54,2025-07-18 15:49,1
+87,Mollitia modi nisi quisquam aspernatur.,Requisicao,Impressora,Fechado,Muito alta,N3 - Desenvolvimento,Carolina Correia,Anthony Gabriel Pastor,2025-07-08 05:40,2025-07-08 06:54,1
+88,Rem excepturi qui omnis.,Requisicao,Impressora,Pendente,Alta,N1 - Suporte,Dra. Ana Julia Rios,Isabelly Barbosa,2025-04-21 12:13,2025-04-21 16:17,1
+89,Necessitatibus veritatis cumque quisquam unde.,Mudanca,Software,Pendente,Media,N2 - Infraestrutura,Vicente Pastor,Rafaela Silveira,2025-10-21 04:20,2025-10-21 17:47,1
+90,Quidem perferendis quae velit.,Incidente,Software,Fechado,Media,N3 - Desenvolvimento,Henry Gabriel Novais,Maitê Guerra,2025-12-06 07:27,2025-12-06 19:57,1
+91,Eum ullam nobis omnis incidunt ratione culpa ducimus.,Incidente,Impressora,Em processamento,Muito alta,N2 - Infraestrutura,Emanuel Garcia,Vitória Alves,2026-03-06 11:42,2026-03-06 13:40,1
+92,Animi eveniet quia quaerat.,Requisicao,Impressora,Novo,Muito baixa,N3 - Desenvolvimento,Fernanda Cassiano,Sr. Vitor Leão,2025-09-14 21:26,2025-09-21 08:43,0
+93,Cumque placeat eius doloribus molestias.,Requisicao,Rede,Novo,Media,N3 - Desenvolvimento,Srta. Aylla Brito,Laura Novais,2025-10-04 01:49,2025-10-04 19:48,1
+94,Quaerat molestiae error iste saepe error nobis.,Problema,Impressora,Novo,Muito baixa,N2 - Infraestrutura,Liz Rezende,Benicio Correia,2025-10-21 18:39,2025-10-26 03:13,1
+95,Officia quidem accusantium fugit odit voluptatem veniam.,Requisicao,Acesso,Em processamento,Alta,N3 - Desenvolvimento,Catarina Cirino,Luiz Gustavo Aparecida,2025-06-16 05:11,2025-06-16 23:03,0
+96,Corrupti rerum natus eos laudantium.,Problema,Impressora,Fechado,Media,N1 - Suporte,Maria Fernanda Rezende,Lorena Ferreira,2026-01-13 09:08,2026-01-14 20:54,0
+97,Rerum cum similique quas consequuntur nulla suscipit.,Requisicao,Impressora,Resolvido,Muito alta,N2 - Infraestrutura,Sophia da Conceição,Dr. Luiz Otávio Albuquerque,2025-11-18 05:07,2025-11-18 09:03,0
+98,Expedita in possimus cum.,Requisicao,Acesso,Novo,Baixa,N1 - Suporte,João Guilherme Cardoso,Maria Liz Garcia,2025-09-14 20:58,2025-09-18 11:46,0
+99,Quas quaerat eius corrupti voluptatem fugiat.,Mudanca,Rede,Pendente,Baixa,N3 - Desenvolvimento,Marcelo da Cruz,João Vitor da Cunha,2025-10-01 12:48,2025-10-07 14:05,0
+100,Ullam repellat eaque perferendis non.,Mudanca,Software,Resolvido,Alta,N2 - Infraestrutura,Leandro Nogueira,Maria Isis Almeida,2026-01-16 05:56,2026-01-16 12:01,1
+101,Explicabo officiis suscipit corrupti in magnam.,Incidente,Acesso,Fechado,Media,N1 - Suporte,Ana Almeida,Maria Luiza Peixoto,2025-09-08 18:46,2025-09-10 10:01,0
+102,Alias voluptate maiores sint.,Incidente,Rede,Resolvido,Muito baixa,N1 - Suporte,Giovanna Ribeiro,Ravi Nascimento,2025-06-06 03:52,2025-06-11 09:07,0
+103,Magnam adipisci eius harum.,Requisicao,Hardware,Fechado,Muito alta,N2 - Infraestrutura,Sr. José Pedro Carvalho,Enzo Gabriel Carvalho,2025-06-09 11:11,2025-06-09 14:24,0
+104,Doloremque architecto nostrum eveniet consectetur.,Incidente,Software,Fechado,Alta,N3 - Desenvolvimento,Emilly Vieira,Maria Clara Pastor,2025-12-25 18:12,2025-12-26 06:49,0
+105,Doloribus aliquid ratione mollitia cumque.,Requisicao,Rede,Em processamento,Media,N2 - Infraestrutura,Ana Liz Andrade,Cauê Barros,2025-12-19 17:40,2025-12-21 07:49,0
+106,Minus vero aliquid magnam.,Problema,Rede,Em processamento,Muito alta,N2 - Infraestrutura,Carlos Eduardo Oliveira,Hadassa Andrade,2025-04-13 03:13,2025-04-13 07:19,0
+107,Quis doloremque fugit.,Incidente,Rede,Pendente,Muito baixa,N1 - Suporte,Yuri Peixoto,Camila Abreu,2025-11-24 01:07,2025-11-26 14:38,1
+108,Pariatur recusandae quis quas nam blanditiis et.,Problema,Acesso,Novo,Media,N3 - Desenvolvimento,Luna Rios,Luísa Lopes,2025-04-20 12:09,2025-04-22 11:57,0
+109,Exercitationem omnis nesciunt odio dolor qui.,Problema,Impressora,Fechado,Alta,N3 - Desenvolvimento,Enrico Moreira,Kamilly Lopes,2026-02-14 10:53,2026-02-15 06:08,0
+110,Atque vitae pariatur.,Incidente,Rede,Fechado,Media,N2 - Infraestrutura,Luísa Viana,Mariah Cunha,2025-08-29 23:20,2025-08-31 07:20,0
+111,Totam pariatur vero assumenda blanditiis assumenda.,Mudanca,Rede,Novo,Baixa,N2 - Infraestrutura,Sra. Maria Luísa Guerra,Leandro Borges,2026-03-17 15:40,2026-03-24 23:48,0
+112,Facilis blanditiis fuga iste eaque harum.,Mudanca,Acesso,Resolvido,Baixa,N3 - Desenvolvimento,Vinícius Santos,Anna Liz Jesus,2025-04-18 16:42,2025-04-20 06:55,1
+113,Sed vel id ex mollitia omnis.,Mudanca,Acesso,Fechado,Media,N1 - Suporte,Sra. Lavínia Caldeira,Olivia Alves,2025-11-10 14:38,2025-11-12 16:46,0
+114,Soluta dolore voluptas aperiam dolore sunt laudantium.,Mudanca,Software,Novo,Muito baixa,N2 - Infraestrutura,Thales Martins,Mariane Sá,2025-08-09 20:14,2025-08-21 21:30,0
+115,Tenetur soluta laboriosam officiis quo modi amet.,Mudanca,Hardware,Em processamento,Muito baixa,N1 - Suporte,Sra. Maria Helena Melo,Ana Clara Borges,2025-09-22 12:12,2025-10-04 09:56,0
+116,Fugiat dolorem nisi officiis quod iure atque.,Requisicao,Software,Pendente,Media,N2 - Infraestrutura,Dra. Cecília Abreu,Pietro Rodrigues,2025-06-30 05:43,2025-07-01 12:05,0
+117,Temporibus nesciunt hic praesentium quod pariatur repellat.,Problema,Impressora,Resolvido,Alta,N2 - Infraestrutura,Sr. Murilo Silva,Juan Guerra,2026-01-31 13:28,2026-02-01 07:44,0
+118,Optio delectus cumque.,Mudanca,Hardware,Resolvido,Baixa,N1 - Suporte,Benjamim Pereira,Mathias Farias,2025-08-04 08:33,2025-08-11 04:50,0
+119,Quo ratione vitae quia modi ratione laborum.,Incidente,Impressora,Novo,Muito alta,N1 - Suporte,Mateus Peixoto,Sophia Alves,2025-06-19 03:44,2025-06-19 07:43,0
+120,Eum praesentium distinctio.,Requisicao,Acesso,Fechado,Media,N1 - Suporte,Ana Vitória Moura,Caleb Moreira,2025-04-11 17:06,2025-04-13 03:55,0
+121,Ea quisquam rerum consequatur repellendus dicta magnam.,Incidente,Rede,Pendente,Baixa,N2 - Infraestrutura,Sr. Marcelo Cassiano,Théo Almeida,2025-04-09 18:33,2025-04-14 12:25,0
+122,Doloribus illum in quibusdam id.,Incidente,Impressora,Fechado,Media,N3 - Desenvolvimento,Sr. Enrico Cunha,Sara Ramos,2025-05-15 00:22,2025-05-15 22:57,1
+123,Accusamus nisi dolores cum recusandae molestiae ipsa.,Mudanca,Hardware,Pendente,Media,N1 - Suporte,Brenda Jesus,Gabriela Machado,2026-04-01 09:57,2026-04-03 05:42,0
+124,Error nam magnam culpa dolores doloribus.,Requisicao,Impressora,Novo,Media,N1 - Suporte,Olivia Garcia,Luiz Fernando Castro,2026-02-05 22:21,2026-02-08 05:27,0
+125,Dignissimos eius fugit quaerat hic voluptates natus.,Problema,Rede,Pendente,Baixa,N2 - Infraestrutura,Alexandre Garcia,João Guilherme Nogueira,2025-11-30 18:38,2025-12-06 17:15,0
+126,Aspernatur minima officiis quo sed.,Requisicao,Acesso,Novo,Baixa,N1 - Suporte,Heloísa Rios,Aylla Teixeira,2026-02-09 23:42,2026-02-15 01:03,0
+127,Numquam sunt natus sit sequi.,Requisicao,Acesso,Fechado,Baixa,N3 - Desenvolvimento,Srta. Natália Aragão,Sabrina Pimenta,2025-06-23 20:25,2025-06-29 19:16,0
+128,Perferendis nobis repudiandae ratione magni quos sequi.,Requisicao,Hardware,Fechado,Alta,N3 - Desenvolvimento,Bella da Rosa,Caleb Carvalho,2025-04-04 18:32,2025-04-05 03:48,0
+129,Ipsam id exercitationem veniam.,Mudanca,Rede,Resolvido,Muito baixa,N1 - Suporte,André Freitas,Dr. Enzo Gabriel Abreu,2026-02-25 19:08,2026-03-03 00:40,0
+130,Nemo ea dolores maxime laborum incidunt.,Problema,Acesso,Resolvido,Alta,N2 - Infraestrutura,Sra. Isabela Jesus,Sr. Lorenzo Caldeira,2025-04-16 21:58,2025-04-17 02:37,1
+131,Cum maxime eos.,Mudanca,Impressora,Fechado,Muito alta,N1 - Suporte,Juan Araújo,Camila Duarte,2026-01-05 23:20,2026-01-06 03:00,0
+132,Eligendi inventore sapiente illo consequatur aspernatur.,Problema,Software,Novo,Media,N3 - Desenvolvimento,Breno Ribeiro,Dante Cavalcanti,2026-02-16 12:41,2026-02-18 17:16,0
+133,Minus non culpa nulla facilis necessitatibus.,Problema,Impressora,Novo,Muito baixa,N1 - Suporte,Ester Santos,Natália Moura,2025-12-06 08:55,2025-12-15 19:16,0
+134,A consequuntur quisquam debitis laboriosam.,Requisicao,Acesso,Em processamento,Alta,N3 - Desenvolvimento,Hellena Farias,Alexandre Rios,2025-09-18 03:57,2025-09-18 08:16,1
+135,Facilis officiis placeat eos.,Problema,Rede,Em processamento,Muito baixa,N2 - Infraestrutura,Dra. Melissa Novais,Gabrielly Lima,2026-01-04 07:13,2026-01-09 08:05,0
+136,Minima nobis tempora maxime.,Incidente,Acesso,Fechado,Alta,N3 - Desenvolvimento,Manuella Albuquerque,Sr. Carlos Eduardo Araújo,2025-06-23 05:47,2025-06-23 15:38,0
+137,Qui ipsum possimus nesciunt laboriosam atque accusamus quidem.,Problema,Impressora,Fechado,Baixa,N1 - Suporte,Breno Costela,Liz Borges,2025-06-17 02:33,2025-06-22 15:52,0
+138,Odio doloribus quos facere ipsam culpa.,Requisicao,Hardware,Fechado,Media,N3 - Desenvolvimento,Sra. Raquel Gomes,Davi Barros,2025-10-23 06:25,2025-10-24 16:59,0
+139,Inventore nam minus ipsa.,Requisicao,Hardware,Resolvido,Baixa,N2 - Infraestrutura,Maria Vitória da Rosa,Francisco da Luz,2025-09-06 15:23,2025-09-11 23:04,0
+140,Quaerat odio dolor laborum rerum assumenda mollitia.,Problema,Rede,Fechado,Baixa,N3 - Desenvolvimento,Ana Pires,Alice da Luz,2025-08-07 17:16,2025-08-12 07:03,0
+141,Sint maiores eius exercitationem perferendis.,Requisicao,Acesso,Resolvido,Muito alta,N2 - Infraestrutura,Sr. Ravi Novaes,Sr. Thiago Albuquerque,2025-04-05 05:38,2025-04-05 08:40,0
+142,Aliquam est facere necessitatibus.,Requisicao,Hardware,Fechado,Baixa,N3 - Desenvolvimento,Joana Guerra,Valentim Sales,2025-07-04 06:39,2025-07-11 09:04,0
+143,Perferendis libero ducimus cum eius.,Problema,Software,Em processamento,Muito alta,N3 - Desenvolvimento,Yan Melo,Lara Cassiano,2025-10-19 01:28,2025-10-19 04:59,0
+144,Nemo est a iure aspernatur sit.,Incidente,Acesso,Pendente,Media,N1 - Suporte,Bianca Sá,Gabriel Cavalcante,2025-06-28 06:00,2025-06-30 09:00,0
+145,Dolore voluptatem nulla voluptas voluptas.,Problema,Rede,Fechado,Muito baixa,N1 - Suporte,Dra. Eloá Santos,Sra. Luiza Mendes,2026-01-06 23:56,2026-01-11 16:05,1
+146,Occaecati nulla numquam laudantium.,Incidente,Rede,Fechado,Muito alta,N1 - Suporte,Kaique Nunes,Heloisa Pires,2025-05-06 11:40,2025-05-06 16:33,0
+147,Explicabo alias eos unde aperiam quos unde.,Mudanca,Hardware,Pendente,Alta,N2 - Infraestrutura,Srta. Zoe Sales,Zoe Correia,2026-01-06 08:08,2026-01-06 16:11,0
+148,Quia dolores dolorem cum.,Incidente,Rede,Fechado,Muito alta,N3 - Desenvolvimento,Rebeca Fonseca,Dr. Paulo das Neves,2026-01-08 12:54,2026-01-08 14:33,1
+149,Dolorem unde quisquam iste magnam.,Requisicao,Impressora,Fechado,Muito baixa,N3 - Desenvolvimento,Ana Luiza Araújo,Daniela Araújo,2025-07-25 16:28,2025-07-29 12:35,1
+150,Recusandae ipsum dicta ex explicabo.,Incidente,Rede,Fechado,Media,N1 - Suporte,Mariana Campos,Sara Cardoso,2025-06-04 10:32,2025-06-06 10:03,0
+151,Tenetur molestiae nostrum praesentium eaque.,Mudanca,Acesso,Novo,Muito baixa,N2 - Infraestrutura,Thomas Mendes,Maria Liz Caldeira,2025-08-22 06:05,2025-08-25 12:58,1
+152,Ipsam quos rem odit itaque ipsam vitae.,Problema,Acesso,Novo,Alta,N1 - Suporte,Ana Vitória Montenegro,Sra. Emanuella Casa Grande,2025-08-24 08:16,2025-08-24 18:34,0
+153,Sit quae delectus vero explicabo ducimus.,Incidente,Impressora,Novo,Muito alta,N2 - Infraestrutura,Kaique Moreira,Miguel Costa,2026-03-29 20:46,2026-03-29 22:51,0
+154,Delectus delectus dignissimos enim esse nobis iure.,Mudanca,Software,Novo,Baixa,N1 - Suporte,Luísa da Cunha,Allana Pinto,2025-09-19 21:03,2025-09-24 00:03,0
+155,Nihil qui ea voluptatum sint nostrum quo.,Problema,Rede,Resolvido,Baixa,N2 - Infraestrutura,Igor Melo,Davi Miguel Ramos,2025-05-17 10:58,2025-05-24 12:42,0
+156,Commodi illum magni laboriosam.,Incidente,Impressora,Novo,Muito alta,N2 - Infraestrutura,Breno Teixeira,Srta. Maria Sophia Pimenta,2025-07-05 18:25,2025-07-05 23:19,0
+157,Ipsa rerum placeat aliquam laboriosam.,Mudanca,Acesso,Resolvido,Muito alta,N1 - Suporte,Luísa Cavalcanti,Dra. Maria Cecília Rocha,2025-07-29 13:59,2025-07-29 15:46,1
+158,At ex incidunt aspernatur sit beatae.,Mudanca,Rede,Resolvido,Media,N2 - Infraestrutura,Sara Brito,Nathan da Mata,2025-05-13 04:16,2025-05-15 12:29,0
+159,Dignissimos aliquid recusandae voluptas architecto.,Problema,Acesso,Fechado,Alta,N3 - Desenvolvimento,Paulo Rezende,Dra. Júlia Alves,2025-08-24 06:26,2025-08-24 13:22,1
+160,Reiciendis sunt assumenda voluptas officia deserunt officia quo.,Incidente,Hardware,Novo,Muito baixa,N3 - Desenvolvimento,Maria Laura da Rosa,Enzo Peixoto,2025-04-18 22:51,2025-04-23 21:38,1
+161,Doloremque minus quis reprehenderit.,Incidente,Rede,Em processamento,Muito baixa,N2 - Infraestrutura,Sr. Heitor Aparecida,Dr. Valentim Mendes,2026-01-28 17:51,2026-02-06 08:23,0
+162,Inventore ducimus vel numquam nihil dicta.,Mudanca,Hardware,Novo,Muito alta,N1 - Suporte,Benjamim Viana,João Lucas Pimenta,2025-08-25 10:12,2025-08-25 13:50,0
+163,Animi doloribus similique eligendi eaque.,Problema,Software,Resolvido,Muito baixa,N2 - Infraestrutura,Dr. Caleb Caldeira,Ana Sophia Vargas,2025-08-18 06:27,2025-08-21 12:04,1
+164,Et culpa optio.,Problema,Acesso,Fechado,Alta,N1 - Suporte,Jade Novais,Isaac Machado,2025-08-17 15:40,2025-08-17 23:54,0
+165,Illo sint tempora ipsam perferendis deleniti corporis sed.,Requisicao,Software,Em processamento,Media,N1 - Suporte,Davi Lucca Almeida,Sr. Théo Teixeira,2025-09-03 19:05,2025-09-05 22:32,0
+166,Impedit sed provident maxime quae ipsam quod consectetur.,Incidente,Rede,Pendente,Baixa,N2 - Infraestrutura,Zoe Vargas,Antony Cassiano,2025-05-29 08:09,2025-06-01 12:42,0
+167,Sunt in optio.,Incidente,Acesso,Resolvido,Muito baixa,N1 - Suporte,Yago Caldeira,Arthur Gabriel Alves,2025-12-24 04:59,2025-12-31 22:47,0
+168,Eum quia dignissimos ipsam perspiciatis ab recusandae.,Problema,Software,Resolvido,Muito alta,N2 - Infraestrutura,Sra. Maria Helena Silva,Olivia Machado,2025-05-28 08:06,2025-05-28 12:00,0
+169,Vero dolorum quam repudiandae neque odit.,Mudanca,Software,Em processamento,Baixa,N1 - Suporte,Lorena Cassiano,Erick Oliveira,2025-12-10 12:01,2025-12-13 03:18,1
+170,Veritatis exercitationem est blanditiis atque distinctio vero.,Problema,Software,Novo,Media,N3 - Desenvolvimento,João Lucas da Paz,Carlos Eduardo Vasconcelos,2025-09-29 11:15,2025-09-30 14:41,0
+171,Sunt perspiciatis velit nihil delectus deserunt.,Incidente,Impressora,Fechado,Muito alta,N3 - Desenvolvimento,Luana Sales,Aylla Barbosa,2025-09-02 11:41,2025-09-02 14:50,0
+172,Eius iure quisquam praesentium.,Incidente,Rede,Fechado,Muito baixa,N3 - Desenvolvimento,Clarice Pimenta,Stephany Costa,2025-08-23 05:20,2025-08-30 16:48,0
+173,Molestiae quod sed rem nemo ab.,Problema,Software,Pendente,Muito baixa,N2 - Infraestrutura,João Pedro Montenegro,Luiz Gustavo Silva,2025-09-28 14:55,2025-10-10 22:15,0
+174,Provident quos earum vero aliquam nostrum.,Problema,Acesso,Em processamento,Muito alta,N3 - Desenvolvimento,Guilherme Camargo,Dra. Maria Fernanda Oliveira,2025-08-10 16:31,2025-08-10 17:39,1
+175,Autem delectus dicta illum similique occaecati.,Incidente,Impressora,Pendente,Baixa,N2 - Infraestrutura,Calebe Ferreira,Sarah Azevedo,2025-09-02 12:38,2025-09-07 16:19,0
+176,Deserunt placeat laudantium voluptatibus.,Incidente,Software,Pendente,Media,N2 - Infraestrutura,Sr. Leonardo Santos,Ryan Viana,2025-12-24 00:41,2025-12-24 16:12,1
+177,Praesentium alias eaque omnis.,Requisicao,Software,Resolvido,Muito alta,N2 - Infraestrutura,Henrique Câmara,Ester Guerra,2026-01-04 21:41,2026-01-04 23:35,1
+178,Cumque et quos atque corporis qui maiores rerum.,Requisicao,Rede,Em processamento,Muito alta,N2 - Infraestrutura,Henry Oliveira,Arthur Gabriel Costela,2025-12-30 22:10,2025-12-31 01:28,0
+179,Quo nisi placeat assumenda assumenda accusantium.,Requisicao,Hardware,Novo,Baixa,N1 - Suporte,Lucca Rezende,Antony Sales,2026-01-05 21:05,2026-01-11 14:16,0
+180,Quae eaque accusamus iusto dolores veritatis architecto.,Incidente,Acesso,Resolvido,Muito alta,N1 - Suporte,Maria Luiza Siqueira,Antony Nunes,2025-07-03 01:10,2025-07-03 04:54,0
+181,Perspiciatis modi culpa animi similique.,Requisicao,Rede,Resolvido,Media,N3 - Desenvolvimento,Ana Rodrigues,Carlos Eduardo Correia,2025-12-27 14:28,2025-12-28 17:11,0
+182,Voluptas perspiciatis voluptatem.,Requisicao,Software,Fechado,Muito baixa,N1 - Suporte,Larissa Cassiano,Eduarda Oliveira,2025-04-28 19:37,2025-05-03 05:10,1
+183,Excepturi molestias nesciunt vitae impedit similique.,Incidente,Software,Novo,Muito baixa,N2 - Infraestrutura,Isis Cassiano,Zoe Pimenta,2026-01-28 02:47,2026-02-04 02:00,0
+184,Eum ipsum ea error incidunt ad.,Mudanca,Hardware,Novo,Muito baixa,N1 - Suporte,Sophia Rios,Rhavi Macedo,2025-04-17 11:42,2025-04-20 21:29,1
+185,Vitae nam officiis qui.,Problema,Hardware,Fechado,Alta,N2 - Infraestrutura,Larissa Cardoso,Yuri das Neves,2025-09-15 17:06,2025-09-16 10:25,0
+186,Nesciunt ea dignissimos iusto dolore facere.,Incidente,Software,Em processamento,Media,N2 - Infraestrutura,Elisa Abreu,Matheus Gomes,2025-11-07 12:20,2025-11-08 12:20,0
+187,Dolores fuga nihil ea.,Requisicao,Rede,Em processamento,Media,N2 - Infraestrutura,Arthur Miguel Cavalcanti,Mathias Dias,2025-05-12 11:48,2025-05-12 23:54,1
+188,Ea qui labore eum.,Problema,Impressora,Novo,Muito alta,N3 - Desenvolvimento,Paulo Mendes,Laís Marques,2025-11-07 23:58,2025-11-08 01:08,1
+189,Quia quo corporis iure saepe.,Mudanca,Impressora,Resolvido,Media,N3 - Desenvolvimento,João Guilherme da Cruz,Marina Oliveira,2026-03-29 04:34,2026-03-30 04:08,1
+190,Deserunt nostrum et nihil beatae occaecati.,Requisicao,Rede,Em processamento,Muito alta,N3 - Desenvolvimento,Bella Pinto,Antonella da Rocha,2025-04-05 03:47,2025-04-05 04:58,1
+191,Quidem explicabo unde molestias quis vero cupiditate.,Incidente,Rede,Fechado,Muito baixa,N3 - Desenvolvimento,Rodrigo Nunes,Srta. Aylla da Mata,2025-09-23 21:14,2025-10-03 21:49,0
+192,Error vero nihil consequatur fugiat.,Mudanca,Rede,Em processamento,Baixa,N1 - Suporte,João das Neves,Matteo Borges,2025-07-30 18:09,2025-08-04 19:39,0
+193,Maiores aperiam architecto molestiae.,Incidente,Software,Fechado,Muito alta,N3 - Desenvolvimento,João Felipe Moraes,Isadora Câmara,2026-02-07 05:50,2026-02-07 10:21,0
+194,Quod error repellat beatae esse molestiae expedita.,Requisicao,Impressora,Resolvido,Muito alta,N1 - Suporte,Sra. Caroline Pereira,Olivia Fonseca,2025-08-01 09:17,2025-08-01 13:50,0
+195,Delectus eligendi vitae.,Incidente,Impressora,Em processamento,Baixa,N3 - Desenvolvimento,Luiz Felipe Borges,Ana Laura Duarte,2025-10-09 00:06,2025-10-12 11:50,0
+196,Distinctio eos nobis placeat modi ullam vitae eveniet.,Incidente,Hardware,Fechado,Muito alta,N3 - Desenvolvimento,Luísa Câmara,Emanuel Campos,2025-10-03 09:27,2025-10-03 12:26,0
+197,Commodi consequuntur nostrum sequi quasi in eos optio.,Mudanca,Acesso,Resolvido,Muito baixa,N1 - Suporte,Lucas Gabriel Fonseca,Ryan Novaes,2025-04-02 19:51,2025-04-08 17:01,0
+198,Dolor quasi molestiae culpa.,Mudanca,Hardware,Fechado,Baixa,N3 - Desenvolvimento,João Felipe Garcia,Lunna Fogaça,2026-01-08 05:00,2026-01-10 04:55,1
+199,Iste similique minima consequuntur quae consequuntur provident.,Mudanca,Acesso,Resolvido,Alta,N3 - Desenvolvimento,Lucas Rodrigues,Ana Vitória Nogueira,2025-07-04 21:01,2025-07-05 02:38,1
+200,Deleniti eaque vel minus eligendi dignissimos qui voluptatem.,Mudanca,Hardware,Pendente,Media,N2 - Infraestrutura,Dr. Otto Porto,Lucas Pastor,2026-02-03 06:11,2026-02-05 16:16,0
+201,Odit amet nihil.,Mudanca,Hardware,Em processamento,Muito baixa,N3 - Desenvolvimento,Gael Henrique Monteiro,Rafael Fernandes,2026-02-13 12:16,2026-02-24 23:30,0
+202,Vero molestias debitis labore.,Mudanca,Hardware,Novo,Media,N1 - Suporte,Ester Costela,Caleb Ramos,2025-10-03 05:30,2025-10-05 14:17,0
+203,Ut earum maiores rerum optio qui.,Mudanca,Rede,Fechado,Alta,N3 - Desenvolvimento,Léo Souza,Noah Lopes,2025-08-05 15:34,2025-08-05 21:07,1
+204,Voluptates ullam quos et.,Problema,Hardware,Novo,Muito baixa,N3 - Desenvolvimento,Lívia Castro,Gabriela Silveira,2026-01-25 04:58,2026-02-06 15:03,0
+205,Tenetur doloribus nam tempore aliquid accusantium non.,Problema,Software,Resolvido,Alta,N2 - Infraestrutura,Maitê Lima,Lucca Moura,2026-02-02 09:34,2026-02-03 05:31,0
+206,Dolores id quia laborum esse.,Incidente,Impressora,Resolvido,Alta,N1 - Suporte,Vitor Pereira,Benicio Brito,2025-12-20 10:10,2025-12-20 18:31,0
+207,Beatae beatae dolorem.,Incidente,Hardware,Pendente,Alta,N3 - Desenvolvimento,Apollo Pastor,Aurora Pimenta,2026-03-04 02:45,2026-03-04 08:08,1
+208,Ipsam blanditiis quasi molestias vel officia architecto.,Mudanca,Impressora,Em processamento,Baixa,N1 - Suporte,Sr. Enrico Fogaça,Luara Porto,2026-02-13 08:25,2026-02-19 06:51,0
+209,Facere asperiores maiores aut nisi voluptatum maiores.,Problema,Impressora,Pendente,Alta,N3 - Desenvolvimento,Diego Aragão,Sarah Marques,2025-12-13 20:07,2025-12-14 12:51,0
+210,Dolorum accusantium mollitia optio deleniti consequatur est laboriosam.,Requisicao,Impressora,Resolvido,Media,N1 - Suporte,Zoe Pires,Bianca Moreira,2025-04-18 13:39,2025-04-19 10:52,1
+211,Natus ipsa nisi perspiciatis facilis aut.,Requisicao,Impressora,Resolvido,Baixa,N2 - Infraestrutura,Nathan Cassiano,Apollo Pastor,2025-06-15 13:39,2025-06-21 10:23,0
+212,Hic autem placeat aut sed.,Incidente,Acesso,Resolvido,Baixa,N1 - Suporte,Isabelly Vieira,Sra. Sophia Ribeiro,2025-07-21 23:41,2025-07-25 20:36,0
+213,Temporibus ipsum perferendis eligendi expedita laboriosam.,Mudanca,Impressora,Em processamento,Baixa,N1 - Suporte,Amanda Albuquerque,Clarice Rios,2025-11-08 10:11,2025-11-15 04:05,0
+214,Harum nam nulla corporis qui.,Mudanca,Acesso,Fechado,Alta,N2 - Infraestrutura,Srta. Nicole da Conceição,Sr. Thiago Gomes,2025-05-12 06:34,2025-05-12 17:25,0
+215,Necessitatibus dolor doloremque eius.,Problema,Acesso,Novo,Media,N1 - Suporte,Alice Vargas,Lorenzo das Neves,2026-01-18 16:36,2026-01-19 20:54,0
+216,Laboriosam esse officia magnam doloremque porro.,Problema,Acesso,Em processamento,Media,N2 - Infraestrutura,Sra. Isadora Sales,Amanda Fogaça,2025-10-01 06:09,2025-10-01 18:24,1
+217,Molestias quidem itaque fugiat autem mollitia odit.,Mudanca,Impressora,Resolvido,Media,N1 - Suporte,Vitória Brito,Rafaela Melo,2025-10-10 07:29,2025-10-12 05:25,0
+218,Sapiente magni deleniti aspernatur temporibus quidem doloribus.,Incidente,Rede,Resolvido,Media,N2 - Infraestrutura,Luiz Gustavo Teixeira,Alexandre Campos,2025-12-11 11:05,2025-12-13 15:39,0
+219,Fugiat voluptas eligendi.,Requisicao,Rede,Novo,Baixa,N2 - Infraestrutura,Sr. Anthony da Luz,Léo da Costa,2025-12-01 01:25,2025-12-06 15:39,0
+220,Illo modi repellat.,Problema,Rede,Novo,Media,N2 - Infraestrutura,Marina Montenegro,Sr. Mathias Moraes,2026-03-28 13:25,2026-03-30 12:15,0
+221,Voluptatibus enim aut esse ut odit.,Problema,Hardware,Resolvido,Media,N1 - Suporte,Joaquim Andrade,Camila Borges,2025-04-03 08:59,2025-04-04 08:22,1
+222,Maxime officiis iusto aperiam temporibus repudiandae praesentium.,Mudanca,Rede,Fechado,Baixa,N1 - Suporte,Pietra Oliveira,Sr. Oliver da Mata,2025-11-18 20:41,2025-11-24 20:38,0
+223,Fugit quae ex odit.,Requisicao,Acesso,Fechado,Alta,N1 - Suporte,Elisa Albuquerque,Beatriz Andrade,2025-07-15 01:37,2025-07-15 21:09,0
+224,Alias repellat dolores eum eos.,Incidente,Rede,Resolvido,Alta,N1 - Suporte,Eloá Santos,Srta. Nicole Campos,2025-05-27 14:48,2025-05-28 01:33,0
+225,Non ratione hic labore nulla porro.,Requisicao,Rede,Novo,Muito alta,N1 - Suporte,João Lucas Fernandes,Dr. Thales Martins,2025-10-26 10:15,2025-10-26 11:28,1
+226,Omnis quas error tempore neque laudantium.,Mudanca,Impressora,Novo,Muito baixa,N2 - Infraestrutura,Melissa da Mota,Maria Júlia Santos,2026-03-08 02:51,2026-03-18 09:01,0
+227,Aut illo eos animi inventore quae tempora.,Problema,Impressora,Fechado,Media,N1 - Suporte,Maria Cecília Nunes,Isis Barbosa,2025-04-26 21:29,2025-04-29 08:44,0
+228,Officiis reiciendis ipsum voluptates est.,Incidente,Acesso,Novo,Media,N1 - Suporte,Sr. Francisco Porto,Sra. Ana Beatriz Ribeiro,2025-08-14 12:55,2025-08-15 11:11,1
+229,Suscipit nesciunt dignissimos molestiae nemo ratione velit molestias.,Incidente,Software,Pendente,Media,N3 - Desenvolvimento,Lucas Cavalcanti,Marina Viana,2025-08-06 02:09,2025-08-07 16:20,0
+230,Ratione odit laboriosam natus.,Requisicao,Rede,Em processamento,Muito alta,N1 - Suporte,Srta. Lívia Carvalho,Sra. Lunna Camargo,2025-12-10 17:08,2025-12-10 19:37,0
+231,Atque aliquam similique exercitationem beatae molestias laudantium.,Incidente,Impressora,Em processamento,Muito baixa,N2 - Infraestrutura,Yasmin Barros,Maria Alice Farias,2025-11-17 12:08,2025-11-21 06:49,1
+232,Voluptate cum consequuntur assumenda dicta corrupti.,Problema,Acesso,Fechado,Alta,N2 - Infraestrutura,Henry Gabriel Porto,Ana Júlia Rocha,2025-09-30 16:59,2025-09-30 21:28,1
+233,Officiis beatae unde.,Mudanca,Rede,Novo,Muito alta,N3 - Desenvolvimento,Olivia Brito,Dra. Luna Novaes,2025-06-07 22:57,2025-06-08 02:44,0
+234,Blanditiis temporibus aut voluptatem vero error harum.,Mudanca,Hardware,Novo,Alta,N1 - Suporte,Sr. Davi Miguel Moraes,João Vitor Siqueira,2026-03-14 09:46,2026-03-14 15:33,1
+235,Illum fugit necessitatibus laborum facere veniam.,Problema,Rede,Em processamento,Muito alta,N2 - Infraestrutura,Sra. Ana Sophia Moraes,Julia Moreira,2025-04-27 21:48,2025-04-28 00:47,0
+236,Impedit repellat itaque assumenda aliquam.,Requisicao,Hardware,Fechado,Media,N2 - Infraestrutura,Sra. Ana Vitória Novaes,Nicolas Pinto,2026-01-20 20:51,2026-01-22 04:29,0
+237,Ipsam accusamus at beatae nam voluptatibus.,Incidente,Hardware,Resolvido,Baixa,N3 - Desenvolvimento,Samuel Castro,Luiz Felipe Correia,2025-08-15 00:57,2025-08-17 02:53,1
+238,Numquam blanditiis alias.,Problema,Impressora,Pendente,Muito alta,N3 - Desenvolvimento,Dr. Davi Costa,Natália da Rosa,2026-01-08 23:38,2026-01-09 02:54,0
+239,Quas ipsa illum tempora culpa necessitatibus fuga.,Mudanca,Impressora,Novo,Baixa,N3 - Desenvolvimento,Marcos Vinicius Camargo,João Lucas Araújo,2025-07-11 09:11,2025-07-16 19:52,0
+240,Expedita nulla necessitatibus eveniet fuga.,Problema,Hardware,Pendente,Muito baixa,N3 - Desenvolvimento,Dra. Ana Júlia Cavalcante,Luiza Cavalcante,2025-09-18 20:38,2025-09-26 17:17,0
+241,Velit vel optio aspernatur officia.,Problema,Software,Em processamento,Muito alta,N1 - Suporte,Dr. Ravi Barbosa,Cecilia Siqueira,2025-06-27 00:57,2025-06-27 04:19,0
+242,Eligendi deleniti perferendis assumenda illo.,Requisicao,Hardware,Pendente,Baixa,N3 - Desenvolvimento,Benjamim da Luz,Rebeca Souza,2025-12-31 17:21,2026-01-04 17:53,0
+243,Eos doloremque dolorem.,Incidente,Acesso,Pendente,Media,N2 - Infraestrutura,Dra. Allana Siqueira,Raquel Souza,2026-01-07 05:11,2026-01-08 18:15,0
+244,Omnis aperiam porro repudiandae magni.,Problema,Impressora,Pendente,Muito alta,N3 - Desenvolvimento,Clara Rocha,Sr. Theo Fernandes,2025-10-09 01:32,2025-10-09 04:48,0
+245,Nesciunt autem dolorem quae.,Incidente,Software,Resolvido,Baixa,N3 - Desenvolvimento,Júlia Souza,Srta. Beatriz Souza,2025-09-04 04:08,2025-09-09 09:51,0
+246,Sed officiis quisquam hic sit.,Requisicao,Impressora,Em processamento,Baixa,N2 - Infraestrutura,Emanuelly Rodrigues,Luísa Sampaio,2025-08-17 16:41,2025-08-22 02:18,0
+247,Dolorem magnam officia sit eos eligendi.,Problema,Software,Fechado,Muito alta,N3 - Desenvolvimento,Luiz Henrique da Luz,Ana Beatriz Leão,2026-03-30 16:38,2026-03-30 18:23,1
+248,Excepturi omnis molestiae atque voluptatem quam dolorum.,Incidente,Hardware,Fechado,Muito baixa,N1 - Suporte,Dr. Lucas Gabriel Nogueira,Cauã Correia,2025-04-20 21:15,2025-04-27 04:50,0
+249,Aperiam earum debitis doloribus.,Problema,Rede,Resolvido,Media,N3 - Desenvolvimento,Bárbara da Conceição,Stella Leão,2025-10-23 14:18,2025-10-24 09:55,1
+250,Porro consequatur aliquid minus.,Problema,Impressora,Fechado,Muito alta,N1 - Suporte,Dr. Alexandre Caldeira,Isaque Teixeira,2025-10-19 20:21,2025-10-19 23:04,0
+251,Sint quae necessitatibus alias itaque voluptatum.,Problema,Rede,Pendente,Media,N1 - Suporte,Emilly Carvalho,Arthur Peixoto,2026-01-14 08:00,2026-01-15 23:42,0
+252,Cupiditate accusantium commodi minima.,Mudanca,Hardware,Pendente,Muito alta,N1 - Suporte,Liz Macedo,Srta. Caroline Guerra,2026-03-23 11:16,2026-03-23 12:18,1
+253,Eum recusandae asperiores quis.,Mudanca,Software,Em processamento,Alta,N3 - Desenvolvimento,Vitor Hugo Sá,Rael da Rosa,2025-07-16 19:19,2025-07-17 08:42,0
+254,Hic doloremque laboriosam quidem incidunt commodi nulla.,Incidente,Acesso,Novo,Muito alta,N2 - Infraestrutura,Srta. Liz Abreu,Sarah Caldeira,2025-09-15 01:06,2025-09-15 02:53,1
+255,Iusto quasi quod ut tempora.,Problema,Hardware,Em processamento,Media,N1 - Suporte,Josué Martins,Luna Duarte,2025-12-06 02:11,2025-12-07 13:50,0
+256,Qui eveniet quidem.,Mudanca,Hardware,Novo,Baixa,N1 - Suporte,Júlia Cavalcante,Pietra das Neves,2025-11-10 14:48,2025-11-12 19:32,1
+257,Minus impedit nesciunt aliquid hic perspiciatis.,Requisicao,Software,Em processamento,Media,N3 - Desenvolvimento,Alexandre Gonçalves,Francisco Nunes,2026-01-04 02:53,2026-01-06 12:19,0
+258,In ad tempora tempora necessitatibus dolore laboriosam.,Requisicao,Acesso,Novo,Muito baixa,N1 - Suporte,Ana Luiza Barbosa,Gabrielly Barbosa,2026-03-31 07:36,2026-04-08 21:54,0
+259,At cum voluptatem accusantium.,Requisicao,Impressora,Resolvido,Baixa,N1 - Suporte,Luiz Gustavo Melo,Bryan da Rosa,2025-09-05 18:57,2025-09-10 23:15,0
+260,Voluptates tempora iusto vero veritatis libero sunt.,Mudanca,Acesso,Resolvido,Muito baixa,N1 - Suporte,Benjamin Ferreira,Bianca da Paz,2025-08-29 07:24,2025-09-02 14:13,1
+261,Atque sequi ducimus deserunt.,Problema,Hardware,Fechado,Muito baixa,N3 - Desenvolvimento,João Vitor Cavalcante,Antonella Mendes,2025-06-02 23:23,2025-06-10 02:42,0
+262,Repudiandae excepturi nisi eaque incidunt deleniti debitis.,Mudanca,Rede,Fechado,Baixa,N2 - Infraestrutura,Marcos Vinicius da Paz,Bryan Rocha,2025-06-22 01:02,2025-06-25 10:37,0
+263,Sint fuga architecto fugit veritatis.,Incidente,Software,Pendente,Muito alta,N2 - Infraestrutura,Marcelo Pimenta,Davi Lucca Mendes,2025-04-25 02:51,2025-04-25 05:13,0
+264,Debitis eveniet ullam eum accusantium possimus tenetur.,Requisicao,Acesso,Pendente,Baixa,N3 - Desenvolvimento,Sarah Garcia,Ísis Martins,2025-05-09 14:39,2025-05-16 22:58,0
+265,Odit perferendis nihil laboriosam aliquam numquam.,Incidente,Rede,Fechado,Muito baixa,N1 - Suporte,Yago da Mota,Mariah Pires,2025-12-16 09:34,2025-12-25 06:03,0
+266,Quam error laborum dignissimos quasi fugiat.,Incidente,Acesso,Novo,Alta,N1 - Suporte,Agatha das Neves,Lucas Moreira,2025-09-25 11:33,2025-09-25 21:25,0
+267,Eos alias cupiditate aut distinctio veritatis.,Mudanca,Hardware,Pendente,Muito baixa,N1 - Suporte,Sra. Caroline Mendonça,Ana Sophia Duarte,2025-08-07 23:10,2025-08-13 20:18,0
+268,Adipisci ut repellendus excepturi iusto.,Mudanca,Impressora,Em processamento,Alta,N1 - Suporte,Ana Cecília Nascimento,Bruna Duarte,2026-03-05 19:19,2026-03-06 06:44,0
+269,Iusto itaque dicta odio eaque dolorem voluptatum.,Mudanca,Acesso,Resolvido,Muito baixa,N2 - Infraestrutura,Mariana Freitas,Brayan Nogueira,2025-07-02 14:53,2025-07-08 23:41,0
+270,Dignissimos illo explicabo blanditiis debitis blanditiis enim.,Problema,Software,Pendente,Alta,N2 - Infraestrutura,Dr. Breno Araújo,Ana Lívia Albuquerque,2025-04-06 03:31,2025-04-06 19:30,0
+271,Occaecati atque perferendis excepturi pariatur.,Requisicao,Hardware,Resolvido,Media,N3 - Desenvolvimento,Dr. Leandro Vieira,Anthony Gabriel Souza,2026-02-02 10:29,2026-02-04 08:20,0
+272,Quibusdam laudantium quidem dicta ipsa minima.,Requisicao,Hardware,Novo,Muito alta,N1 - Suporte,Aylla Teixeira,Camila Montenegro,2025-08-14 10:05,2025-08-14 11:50,1
+273,Nemo maxime dolorem quo dolorem corrupti.,Requisicao,Hardware,Fechado,Muito alta,N2 - Infraestrutura,Sr. Heitor Novais,Dra. Anna Liz das Neves,2026-03-17 03:54,2026-03-17 06:33,0
+274,Distinctio blanditiis excepturi tenetur provident in.,Requisicao,Impressora,Resolvido,Muito baixa,N2 - Infraestrutura,Luiz Otávio Andrade,Luiza da Costa,2025-08-16 21:10,2025-08-21 12:05,1
+275,Veniam doloremque expedita pariatur blanditiis.,Mudanca,Software,Novo,Alta,N2 - Infraestrutura,Leonardo Moraes,Vitória Cavalcante,2025-07-07 17:33,2025-07-08 01:23,1
+276,Voluptates impedit nulla voluptate doloribus.,Problema,Software,Novo,Muito baixa,N1 - Suporte,Paulo Carvalho,Dr. Daniel Gomes,2025-12-21 10:08,2025-12-29 14:08,0
+277,Quas qui deleniti assumenda aperiam neque tenetur.,Incidente,Software,Pendente,Baixa,N3 - Desenvolvimento,Dr. Pedro Miguel Costela,Maria Flor Cardoso,2025-06-09 16:50,2025-06-16 15:35,0
+278,Eaque et atque nihil aut quo.,Requisicao,Software,Pendente,Baixa,N3 - Desenvolvimento,João Miguel Fogaça,Alexandre Nogueira,2026-03-08 21:08,2026-03-14 11:42,0
+279,Libero quas impedit rem velit provident asperiores.,Mudanca,Rede,Pendente,Muito baixa,N2 - Infraestrutura,Sra. Yasmin Moreira,Júlia Almeida,2025-09-03 13:54,2025-09-09 07:47,0
+280,Fugiat ab tempora illo.,Problema,Impressora,Resolvido,Alta,N1 - Suporte,Mariane Nunes,Lavínia Macedo,2025-11-14 12:26,2025-11-15 04:16,0
+281,Atque laborum dicta ex voluptatum blanditiis nulla.,Mudanca,Impressora,Resolvido,Alta,N2 - Infraestrutura,Sr. Dom Sousa,Marcos Vinicius da Costa,2026-03-13 02:20,2026-03-13 16:54,0
+282,Doloremque voluptas quia porro saepe.,Problema,Rede,Resolvido,Alta,N1 - Suporte,Raul Melo,Sr. Daniel Cunha,2026-01-06 02:16,2026-01-06 16:18,0
+283,Pariatur quod voluptatem adipisci.,Problema,Impressora,Novo,Media,N2 - Infraestrutura,Carolina Monteiro,Maria Alice da Paz,2025-05-07 14:03,2025-05-09 00:34,0
+284,Laborum ex commodi maxime.,Incidente,Rede,Pendente,Baixa,N3 - Desenvolvimento,Ana Lívia da Costa,Emilly Melo,2025-11-23 09:17,2025-11-25 20:19,1
+285,Aut quos explicabo impedit at.,Mudanca,Impressora,Resolvido,Media,N3 - Desenvolvimento,Sr. Felipe Cirino,Maria da Rosa,2025-07-09 12:18,2025-07-11 06:11,0
+286,Dolorum iusto dolores culpa deserunt.,Mudanca,Rede,Resolvido,Baixa,N2 - Infraestrutura,José Miguel Gomes,Sra. Catarina Duarte,2025-06-17 09:35,2025-06-22 00:29,0
+287,Consequuntur vero repellat quis.,Requisicao,Acesso,Resolvido,Alta,N1 - Suporte,Bianca da Cunha,Dr. Asafe Porto,2025-09-07 20:56,2025-09-08 05:14,0
+288,Temporibus esse reiciendis ullam delectus sequi.,Requisicao,Software,Novo,Muito alta,N3 - Desenvolvimento,Srta. Bella Vasconcelos,Lucas Novais,2025-07-17 09:35,2025-07-17 12:35,0
+289,Accusantium odit inventore aliquam.,Requisicao,Rede,Resolvido,Muito alta,N2 - Infraestrutura,Apollo Moraes,Enrico Aparecida,2025-10-07 12:20,2025-10-07 16:29,0
+290,Mollitia ipsam omnis voluptatem.,Mudanca,Impressora,Pendente,Alta,N2 - Infraestrutura,Leandro Rodrigues,Raul da Costa,2026-03-11 03:49,2026-03-11 16:59,0
+291,Aspernatur excepturi quo laudantium eaque dolor blanditiis animi.,Incidente,Acesso,Novo,Media,N1 - Suporte,Sra. Lorena Moraes,Maria Luísa Cassiano,2025-06-11 16:29,2025-06-12 14:00,1
+292,Ducimus eaque nihil doloremque soluta sint perspiciatis.,Incidente,Software,Resolvido,Muito baixa,N1 - Suporte,Maria Júlia Novaes,Davi Borges,2025-07-14 05:53,2025-07-25 17:41,0
+293,Voluptates perspiciatis tempora similique voluptate consequuntur.,Mudanca,Acesso,Novo,Alta,N2 - Infraestrutura,Dr. Rodrigo Cavalcante,Vitória Souza,2025-05-27 15:25,2025-05-27 22:00,1
+294,Optio quae corporis laborum.,Requisicao,Impressora,Resolvido,Muito baixa,N2 - Infraestrutura,Vicente Marques,Liz Novais,2025-05-12 08:21,2025-05-20 05:12,0
+295,Numquam corrupti quod corporis.,Problema,Impressora,Em processamento,Baixa,N1 - Suporte,Miguel Correia,Pietro Pires,2025-12-11 05:01,2025-12-18 01:03,0
+296,Aut nam tenetur minima debitis sequi ut quaerat.,Mudanca,Impressora,Resolvido,Media,N3 - Desenvolvimento,Caroline Nunes,Melissa Aragão,2025-07-24 22:29,2025-07-26 23:43,0
+297,Eum magnam minus consequatur.,Problema,Acesso,Resolvido,Muito baixa,N1 - Suporte,Luiz Fernando Dias,Bruno Moreira,2025-10-24 19:16,2025-11-04 22:54,0
+298,Nam placeat animi iure ipsum.,Problema,Acesso,Pendente,Alta,N2 - Infraestrutura,Anthony Machado,Henrique Câmara,2025-09-02 21:05,2025-09-03 08:46,0
+299,Voluptatibus natus mollitia molestiae rem amet.,Incidente,Rede,Novo,Muito alta,N2 - Infraestrutura,Maya Aragão,Levi Santos,2025-06-09 16:47,2025-06-09 20:50,0
+300,Iusto accusantium possimus distinctio quam.,Mudanca,Hardware,Novo,Muito baixa,N2 - Infraestrutura,Dr. Levi Fonseca,Raquel Santos,2025-05-19 15:27,2025-05-23 14:26,1
+301,Deserunt dignissimos qui ea delectus.,Requisicao,Hardware,Fechado,Muito alta,N2 - Infraestrutura,Dra. Manuella Rios,Lorena Caldeira,2025-04-21 05:33,2025-04-21 06:45,1
+302,Ab culpa suscipit hic sed corporis.,Requisicao,Rede,Fechado,Baixa,N2 - Infraestrutura,Marina Vieira,Léo Barbosa,2025-08-01 14:38,2025-08-04 04:51,1
+303,Impedit id ipsam natus quae blanditiis nisi dolorum.,Requisicao,Software,Fechado,Muito baixa,N2 - Infraestrutura,Vinicius da Luz,Maria Isis Brito,2025-04-26 09:57,2025-05-06 06:18,0
+304,Molestiae ad enim praesentium.,Mudanca,Rede,Fechado,Muito alta,N2 - Infraestrutura,Sophia Vasconcelos,Vitor Gabriel Barbosa,2025-09-16 09:37,2025-09-16 13:05,0
+305,Earum cumque cumque consequatur iure esse consequuntur.,Problema,Acesso,Novo,Muito baixa,N3 - Desenvolvimento,Yago Campos,Renan Ramos,2025-05-31 11:23,2025-06-03 18:56,1
+306,Est sit ipsam architecto iste perspiciatis.,Problema,Acesso,Pendente,Media,N1 - Suporte,Nicolas Cunha,Julia Casa Grande,2026-03-11 14:36,2026-03-13 15:21,0
+307,Reiciendis iste illo maxime.,Incidente,Acesso,Novo,Alta,N3 - Desenvolvimento,João Marques,Catarina Camargo,2025-04-19 23:25,2025-04-20 15:37,0
+308,Aliquid vero amet itaque.,Incidente,Hardware,Em processamento,Alta,N1 - Suporte,Sr. Renan Farias,Léo Martins,2026-01-14 05:50,2026-01-14 22:56,0
+309,Ut quibusdam error ex voluptates perspiciatis nobis.,Mudanca,Acesso,Fechado,Baixa,N1 - Suporte,Sofia Dias,Igor Câmara,2025-09-09 09:02,2025-09-14 11:12,0
+310,Eos quia delectus molestias repellendus eligendi amet nemo.,Mudanca,Software,Novo,Muito alta,N3 - Desenvolvimento,Murilo Cardoso,Yuri Mendonça,2025-09-20 08:42,2025-09-20 13:07,0
+311,Expedita omnis sint aperiam a numquam.,Problema,Acesso,Em processamento,Baixa,N2 - Infraestrutura,Cauã Pinto,Hellena Marques,2026-03-01 06:20,2026-03-06 01:40,0
+312,Unde id atque maiores voluptatum quisquam.,Incidente,Acesso,Novo,Muito alta,N1 - Suporte,Heloísa Montenegro,Marcos Vinicius Novaes,2025-05-01 15:47,2025-05-01 18:53,0
+313,Vitae iste nihil.,Problema,Software,Pendente,Baixa,N2 - Infraestrutura,Thales Alves,Lucca da Cruz,2025-08-01 06:47,2025-08-05 12:50,0
+314,Molestias nisi aspernatur quidem quam ea.,Requisicao,Impressora,Em processamento,Alta,N2 - Infraestrutura,Srta. Rafaela Correia,Danilo Correia,2025-12-21 12:06,2025-12-22 04:45,0
+315,Perspiciatis iusto eveniet at in vero enim.,Problema,Rede,Em processamento,Alta,N3 - Desenvolvimento,Gabriela Fogaça,Luiz Fernando Cardoso,2025-10-10 21:59,2025-10-11 15:47,0
+316,Earum nesciunt occaecati nobis rem adipisci voluptates ullam.,Requisicao,Acesso,Fechado,Alta,N2 - Infraestrutura,Léo Moreira,Theo Melo,2025-05-17 00:18,2025-05-17 15:54,0
+317,Quia totam beatae quia error necessitatibus numquam.,Problema,Software,Em processamento,Muito alta,N1 - Suporte,Dr. Ravi Lucca Almeida,Maria Vitória Moura,2025-07-03 12:20,2025-07-03 15:18,0
+318,Corrupti consequuntur quisquam ullam.,Problema,Rede,Fechado,Muito alta,N2 - Infraestrutura,Raul Pinto,Brayan Almeida,2026-02-18 16:46,2026-02-18 19:51,0
+319,Laboriosam ex sapiente aliquid similique perspiciatis dolore.,Mudanca,Hardware,Fechado,Alta,N1 - Suporte,Allana Pinto,Matteo Pastor,2025-04-03 06:52,2025-04-03 14:39,1
+320,Labore numquam est accusantium.,Problema,Acesso,Resolvido,Alta,N3 - Desenvolvimento,Mathias Pimenta,Davi Miguel Campos,2026-01-16 06:59,2026-01-16 12:01,1
+321,Tempora itaque consequuntur iure sint repellat eveniet.,Requisicao,Hardware,Novo,Media,N1 - Suporte,Ana Vitória da Costa,Samuel Fogaça,2026-01-03 16:21,2026-01-05 08:01,0
+322,Architecto earum fuga odio molestiae nostrum nihil.,Mudanca,Rede,Novo,Baixa,N3 - Desenvolvimento,Lorena Sampaio,Thiago Leão,2025-05-28 23:51,2025-05-31 23:40,1
+323,Modi cumque quaerat.,Requisicao,Impressora,Pendente,Baixa,N1 - Suporte,Enzo Dias,João Vitor da Rocha,2025-07-01 22:08,2025-07-04 04:33,1
+324,Enim aspernatur nostrum totam molestias temporibus sequi.,Mudanca,Acesso,Em processamento,Baixa,N1 - Suporte,Bruno Fernandes,Otávio Melo,2025-07-06 01:49,2025-07-10 18:06,0
+325,Cumque dolorum commodi voluptas doloribus itaque aperiam.,Mudanca,Rede,Em processamento,Muito baixa,N3 - Desenvolvimento,Srta. Cecília Câmara,Sofia da Rosa,2025-10-30 11:59,2025-11-02 13:14,1
+326,Quis praesentium culpa quis dolorem in optio error.,Incidente,Rede,Pendente,Alta,N1 - Suporte,Juliana Carvalho,Camila das Neves,2025-07-10 13:22,2025-07-11 02:00,0
+327,Id veniam sequi perferendis.,Mudanca,Acesso,Novo,Muito baixa,N2 - Infraestrutura,Liz Novais,Mariane da Paz,2026-01-25 07:14,2026-01-29 18:05,1
+328,Officia minima cumque sapiente at ab.,Mudanca,Rede,Resolvido,Alta,N1 - Suporte,Noah Vargas,Ravi Ramos,2026-03-12 04:06,2026-03-12 11:00,1
+329,Voluptas cum quia fugit dolorum.,Requisicao,Rede,Fechado,Muito baixa,N3 - Desenvolvimento,Yuri Fonseca,Gael da Luz,2026-01-21 19:55,2026-01-26 15:51,1
+330,Vitae cum molestias est.,Requisicao,Hardware,Novo,Muito baixa,N2 - Infraestrutura,Yasmin Cassiano,José Moraes,2026-02-05 02:54,2026-02-17 08:10,0
+331,Earum voluptate nulla aperiam.,Requisicao,Software,Novo,Muito baixa,N1 - Suporte,Gabriela Rezende,Luiza Almeida,2026-01-03 23:32,2026-01-14 13:17,0
+332,Voluptas tenetur sed distinctio exercitationem quidem.,Mudanca,Acesso,Em processamento,Muito alta,N2 - Infraestrutura,Maria Luísa Albuquerque,Sr. Pedro Henrique Azevedo,2025-05-26 19:49,2025-05-26 23:32,0
+333,Asperiores vero perspiciatis similique.,Incidente,Rede,Em processamento,Muito alta,N3 - Desenvolvimento,Yago Martins,Yasmin Rocha,2025-12-18 12:32,2025-12-18 15:41,0
+334,Quod architecto omnis deserunt animi.,Incidente,Impressora,Fechado,Media,N1 - Suporte,Yuri Azevedo,Diego Costela,2025-04-05 07:43,2025-04-06 23:45,0
+335,Nobis harum dolorum.,Mudanca,Rede,Pendente,Media,N3 - Desenvolvimento,Alícia Almeida,Dra. Ana Luiza Pacheco,2025-08-29 22:24,2025-08-31 22:40,0
+336,Inventore voluptatibus amet cum id.,Incidente,Impressora,Pendente,Muito baixa,N3 - Desenvolvimento,Luiz Miguel Fonseca,Catarina Camargo,2026-02-16 05:16,2026-02-23 15:34,0
+337,Nihil dolorem nam nisi eum nulla architecto.,Requisicao,Hardware,Em processamento,Muito alta,N3 - Desenvolvimento,Dr. Cauã Viana,Sr. Valentim da Cruz,2025-12-26 17:26,2025-12-26 21:49,0
+338,Quo minima dolores sequi.,Incidente,Acesso,Em processamento,Media,N2 - Infraestrutura,Caio Pires,Theo Cirino,2025-08-28 11:16,2025-08-30 19:20,0
+339,Saepe necessitatibus repellat illum ducimus.,Problema,Hardware,Pendente,Alta,N2 - Infraestrutura,Srta. Luna Silveira,Maria Pimenta,2025-11-29 03:06,2025-11-29 22:00,0
+340,Non assumenda fugiat est ab minima suscipit.,Mudanca,Rede,Pendente,Alta,N1 - Suporte,Levi Nogueira,Francisco Casa Grande,2025-10-06 16:29,2025-10-07 11:42,0
+341,Amet cupiditate soluta rem quis velit earum provident.,Mudanca,Impressora,Resolvido,Alta,N2 - Infraestrutura,Gael Henrique Nunes,Enzo Gabriel Casa Grande,2025-07-19 08:07,2025-07-19 14:15,1
+342,Ratione illum veniam dolorem.,Incidente,Acesso,Resolvido,Muito alta,N2 - Infraestrutura,Pedro Miguel Moraes,Isabela Albuquerque,2025-04-12 02:04,2025-04-12 06:32,0
+343,Alias mollitia ea necessitatibus animi ea.,Incidente,Hardware,Novo,Alta,N2 - Infraestrutura,Heloísa Novaes,Sr. Miguel da Conceição,2025-05-30 09:23,2025-05-30 21:27,0
+344,Impedit quaerat sunt expedita perferendis.,Requisicao,Software,Novo,Baixa,N3 - Desenvolvimento,Ayla Moraes,Lorena Lima,2025-09-01 06:40,2025-09-07 16:41,0
+345,Commodi temporibus laboriosam doloribus eius.,Requisicao,Impressora,Pendente,Muito alta,N3 - Desenvolvimento,Zoe Martins,Heloisa Correia,2025-12-16 04:06,2025-12-16 08:49,0
+346,Nobis vitae quae placeat unde libero aliquam vero.,Problema,Hardware,Fechado,Baixa,N2 - Infraestrutura,Dra. Gabrielly Nunes,Diego Pereira,2025-05-08 20:49,2025-05-14 09:39,0
+347,Assumenda labore soluta officia magni beatae magni.,Problema,Impressora,Novo,Media,N3 - Desenvolvimento,Dra. Brenda Mendes,Kevin Rodrigues,2025-08-10 06:32,2025-08-11 17:45,0
+348,Eveniet nobis dolores rerum.,Mudanca,Rede,Resolvido,Muito alta,N2 - Infraestrutura,Srta. Luana Guerra,Guilherme Cassiano,2026-03-24 12:36,2026-03-24 15:13,0
+349,Pariatur est placeat sit commodi mollitia.,Requisicao,Software,Fechado,Alta,N2 - Infraestrutura,Maria Sophia Carvalho,Maria Cecília Garcia,2026-03-27 17:01,2026-03-28 11:47,0
+350,Debitis unde iure illum aperiam.,Incidente,Acesso,Pendente,Media,N2 - Infraestrutura,Antony Moreira,Eduardo Silva,2026-03-22 18:38,2026-03-23 19:45,0
+351,Ea quia quo.,Problema,Hardware,Em processamento,Baixa,N2 - Infraestrutura,Catarina Carvalho,Matteo Santos,2026-02-12 08:09,2026-02-16 18:27,0
+352,Natus autem quod quia eaque dignissimos.,Requisicao,Hardware,Fechado,Baixa,N3 - Desenvolvimento,Théo Sales,Isis Cardoso,2025-11-30 13:02,2025-12-05 05:30,0
+353,Velit nobis doloremque velit maxime minima.,Mudanca,Impressora,Em processamento,Muito baixa,N2 - Infraestrutura,Gustavo Henrique Cunha,Luiz Gustavo Rocha,2025-05-26 05:19,2025-06-06 04:31,0
+354,Corrupti sit eveniet deleniti quae adipisci.,Incidente,Rede,Resolvido,Baixa,N3 - Desenvolvimento,Luara Almeida,Nicole Nascimento,2026-01-29 21:04,2026-02-04 02:28,0
+355,Ab ea voluptates minima reprehenderit autem.,Mudanca,Impressora,Novo,Media,N2 - Infraestrutura,Anthony Gabriel Cunha,Théo Monteiro,2026-03-21 21:04,2026-03-24 07:03,0
+356,Tempora eum laboriosam neque cum.,Requisicao,Impressora,Em processamento,Media,N1 - Suporte,Gabriela Freitas,Ester Leão,2025-12-11 00:43,2025-12-12 19:00,0
+357,Perspiciatis distinctio corporis aut.,Requisicao,Acesso,Resolvido,Alta,N2 - Infraestrutura,Henry Castro,Benício Cardoso,2025-04-24 22:20,2025-04-25 07:42,0
+358,Praesentium quisquam voluptate repellendus voluptates nisi.,Requisicao,Software,Em processamento,Muito alta,N3 - Desenvolvimento,Isadora Pereira,Luna Barbosa,2025-04-03 12:04,2025-04-03 13:34,1
+359,Quibusdam eius rerum.,Requisicao,Hardware,Em processamento,Muito baixa,N3 - Desenvolvimento,Amanda Caldeira,Enrico Jesus,2026-03-13 03:57,2026-03-23 16:46,0
+360,Libero et harum optio recusandae id.,Incidente,Hardware,Resolvido,Muito baixa,N2 - Infraestrutura,Ana Sophia Vasconcelos,Eloá Abreu,2025-08-13 15:32,2025-08-18 05:07,1
+361,Porro sint assumenda repudiandae optio non.,Problema,Acesso,Novo,Muito alta,N1 - Suporte,José Miguel Sá,Sra. Ana Julia Novais,2025-06-04 15:17,2025-06-04 18:23,0
+362,Debitis placeat minima.,Requisicao,Hardware,Fechado,Alta,N2 - Infraestrutura,Emanuel Moreira,Luana Duarte,2025-12-06 10:32,2025-12-06 17:42,1
+363,Temporibus recusandae non nobis voluptates incidunt cumque.,Problema,Acesso,Fechado,Alta,N3 - Desenvolvimento,José Pedro Aparecida,João Pedro Mendes,2025-11-12 12:58,2025-11-13 05:16,0
+364,Necessitatibus fugit omnis praesentium nemo voluptates.,Problema,Impressora,Resolvido,Muito baixa,N3 - Desenvolvimento,Leonardo Sales,Ana Cecília Nascimento,2025-12-26 10:54,2026-01-05 16:52,0
+365,Quis ea deleniti debitis molestiae pariatur.,Problema,Software,Resolvido,Baixa,N1 - Suporte,Maria Luísa Vieira,Diogo da Rosa,2025-08-18 21:54,2025-08-24 13:10,0
+366,Quos qui quas molestiae excepturi quos nobis.,Mudanca,Rede,Fechado,Media,N1 - Suporte,Samuel da Rosa,Joana Cardoso,2026-02-04 02:59,2026-02-05 01:03,1
+367,Impedit ab optio magni deserunt.,Incidente,Impressora,Pendente,Baixa,N1 - Suporte,Sra. Pietra Aparecida,Lucas Oliveira,2025-07-14 23:50,2025-07-19 21:53,0
+368,Praesentium quae nihil nam deleniti tempore nisi.,Problema,Software,Em processamento,Alta,N1 - Suporte,Ravy Borges,Esther Abreu,2026-02-23 16:19,2026-02-23 21:13,1
+369,Perspiciatis illum totam illum esse voluptas odit.,Requisicao,Software,Em processamento,Muito baixa,N1 - Suporte,Camila Camargo,Laura Correia,2025-09-05 08:13,2025-09-16 21:24,0
+370,Dolor ut ratione nesciunt officia laborum laboriosam.,Incidente,Software,Resolvido,Muito alta,N1 - Suporte,Diego das Neves,Hadassa Aparecida,2025-04-25 02:40,2025-04-25 04:42,0
+371,Voluptate provident nulla iusto id laboriosam.,Incidente,Software,Em processamento,Muito alta,N2 - Infraestrutura,Davi Lucas Borges,Esther Pereira,2025-07-13 13:05,2025-07-13 17:09,0
+372,Placeat quisquam quasi placeat.,Requisicao,Acesso,Em processamento,Muito alta,N1 - Suporte,Arthur Gabriel Nascimento,Lucas Gabriel Pereira,2025-12-31 11:18,2025-12-31 15:33,0
+373,Expedita minima ut dolor pariatur officia nobis.,Problema,Software,Em processamento,Media,N2 - Infraestrutura,Enrico Fernandes,Eloá da Cruz,2025-11-26 10:30,2025-11-28 12:21,0
+374,Dolor assumenda non esse occaecati.,Incidente,Hardware,Fechado,Muito baixa,N3 - Desenvolvimento,Gustavo Henrique Machado,Ravy Moreira,2026-02-05 08:44,2026-02-14 17:36,0
+375,In optio aliquid fuga.,Mudanca,Acesso,Em processamento,Muito alta,N3 - Desenvolvimento,Enzo Cardoso,Luísa Sampaio,2025-05-21 05:08,2025-05-21 07:25,0
+376,Qui ex minima illo.,Problema,Software,Fechado,Media,N2 - Infraestrutura,Murilo Martins,Anthony Gabriel Sá,2025-04-24 20:19,2025-04-27 03:23,0
+377,Sit accusamus qui nobis temporibus molestiae.,Mudanca,Impressora,Resolvido,Muito baixa,N1 - Suporte,Vitória Marques,Valentina Siqueira,2026-03-18 12:53,2026-03-24 11:29,0
+378,Rerum dicta ab quas.,Problema,Rede,Em processamento,Alta,N3 - Desenvolvimento,Alexia Albuquerque,Davi Lucas Viana,2025-05-08 11:10,2025-05-08 18:46,1
+379,Ad commodi illum assumenda culpa ipsam.,Mudanca,Acesso,Fechado,Baixa,N3 - Desenvolvimento,Ana Beatriz Borges,Lucas Gabriel Correia,2025-07-28 19:43,2025-08-01 18:21,0
+380,Doloribus provident iusto commodi architecto aspernatur.,Mudanca,Hardware,Resolvido,Media,N1 - Suporte,Dra. Heloisa Ramos,Luiz Henrique Brito,2026-02-28 22:13,2026-03-02 22:02,0
+381,Corporis saepe officiis odio dolore doloribus.,Requisicao,Impressora,Resolvido,Media,N3 - Desenvolvimento,Pedro Henrique Pimenta,Ísis Cavalcanti,2025-06-22 05:54,2025-06-22 18:53,1
+382,Quibusdam amet officia rerum.,Problema,Software,Pendente,Alta,N1 - Suporte,Evelyn Costa,Lucas Gabriel Correia,2026-02-11 19:15,2026-02-12 15:09,0
+383,Recusandae explicabo dignissimos fugit officia.,Mudanca,Hardware,Novo,Alta,N3 - Desenvolvimento,Maria Fernanda da Rosa,Ravi Almeida,2026-03-14 14:51,2026-03-15 05:32,0
+384,Velit dolore deserunt ullam sed.,Mudanca,Acesso,Em processamento,Muito baixa,N2 - Infraestrutura,Dra. Fernanda Nogueira,Eduardo Aparecida,2025-04-06 21:39,2025-04-16 21:11,0
+385,Sequi dolorem recusandae laudantium veniam minima perspiciatis.,Incidente,Acesso,Fechado,Muito alta,N1 - Suporte,Sr. Rhavi Castro,Ayla Novaes,2026-01-28 01:06,2026-01-28 05:23,0
+386,Assumenda libero odit consequuntur suscipit.,Requisicao,Impressora,Pendente,Muito alta,N3 - Desenvolvimento,Gael da Mota,Emanuella Caldeira,2025-11-01 06:39,2025-11-01 10:13,0
+387,Consequuntur debitis magni quam rem corrupti aliquam.,Incidente,Software,Em processamento,Muito baixa,N3 - Desenvolvimento,Sr. Pedro Lucas Rocha,Sr. Théo Rodrigues,2025-10-01 20:10,2025-10-13 14:23,0
+388,Facere perspiciatis id laudantium maiores.,Incidente,Impressora,Pendente,Media,N2 - Infraestrutura,Gabriel Borges,Antony Ferreira,2025-06-14 17:40,2025-06-15 12:16,1
+389,Beatae explicabo ducimus dolorum.,Problema,Software,Novo,Muito baixa,N3 - Desenvolvimento,Clara Cavalcante,Bella Novais,2025-06-25 07:18,2025-07-01 20:05,0
+390,Quasi odit voluptates cumque voluptas earum.,Incidente,Software,Novo,Muito baixa,N2 - Infraestrutura,Maria Luiza Mendes,Lucca Ramos,2025-05-29 22:07,2025-06-06 14:22,0
+391,Magni alias possimus aspernatur.,Incidente,Acesso,Em processamento,Baixa,N3 - Desenvolvimento,Juan Jesus,Miguel da Mata,2025-04-12 00:59,2025-04-16 21:30,0
+392,Fuga quaerat sunt sed at facere earum.,Requisicao,Impressora,Pendente,Alta,N2 - Infraestrutura,Vinicius Pereira,Gustavo Henrique Câmara,2025-11-13 16:02,2025-11-14 03:01,0
+393,Voluptate minima nulla quis voluptatem corrupti quisquam quam.,Mudanca,Software,Em processamento,Media,N3 - Desenvolvimento,Luigi Aragão,Benício Carvalho,2025-07-14 02:55,2025-07-15 14:37,0
+394,Deserunt nesciunt sapiente quisquam labore.,Incidente,Software,Pendente,Baixa,N2 - Infraestrutura,Natália Farias,Dr. Benício da Conceição,2025-05-30 04:26,2025-06-05 18:47,0
+395,Deserunt accusantium laudantium error molestias quisquam laborum quisquam.,Incidente,Acesso,Novo,Muito alta,N2 - Infraestrutura,Heitor da Rosa,Enzo Jesus,2025-05-15 07:58,2025-05-15 10:06,0
+396,Nesciunt laboriosam quaerat soluta commodi.,Problema,Software,Fechado,Baixa,N3 - Desenvolvimento,Luigi Jesus,Amanda Nogueira,2025-09-18 16:11,2025-09-20 11:09,1
+397,Laboriosam eligendi veniam necessitatibus ea esse.,Mudanca,Acesso,Novo,Muito alta,N1 - Suporte,Gabriela Câmara,Rhavi Câmara,2026-03-28 00:34,2026-03-28 05:07,0
+398,Odio impedit ea perspiciatis.,Requisicao,Software,Resolvido,Muito baixa,N1 - Suporte,Pedro Henrique Macedo,Emanuel Pimenta,2026-01-07 13:47,2026-01-15 16:09,0
+399,Placeat sed delectus dicta.,Requisicao,Acesso,Fechado,Media,N1 - Suporte,Gael Pereira,Isadora Souza,2025-11-19 02:28,2025-11-20 08:58,0
+400,Quidem nostrum assumenda ut quibusdam velit placeat doloremque.,Mudanca,Software,Em processamento,Media,N2 - Infraestrutura,Luiz Felipe Pacheco,Luigi Nogueira,2025-05-07 14:48,2025-05-09 08:42,0
